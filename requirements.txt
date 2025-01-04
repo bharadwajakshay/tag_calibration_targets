@@ -1,0 +1,5 @@
+-i https://pypi.org/simple
+easygui==0.98.3
+numpy==2.1.2
+opencv-python==4.10.0.84
+tk==0.1.0
